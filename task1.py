@@ -11,7 +11,6 @@ multiplication = num1 * num2
 division = num1 / num2 if num2 != 0 else "Undefined (division by zero)"
 
 # Display results
-print("\nResults:")
 print(f"Addition:  {addition}")
 print(f"Subtraction:  {subtraction}")
 print(f"Multiplication: {multiplication}")
